@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview
 
@@ -18,4 +18,10 @@
 
 ## Summary
 
-### From our analysis we can see that replacing values for ninth graders in Thomas High School did not have a significant impact as the number of students in the ninth grade from one school in one district is a relatively small number. Most changes were only a tenth or two of a percent. Medium schools are impacted by these changes as seen with a slight percentage drop in overal passing. From the images below you can make comparisons of the top five performing schools.
+### From our analysis we can see that replacing values for ninth graders in Thomas High School did not have a significant impact as the number of students in the ninth grade from one school in one district is a relatively small number. Most changes were only a tenth or two of a percent. Medium schools are impacted by these changes as seen with a slight percentage drop in overal passing as shown below. 
+
+#### Original
+![image](https://github.com/slafton/School_District_Analysis/blob/main/Resources/School%20Size%20Summary%20Original.png)
+
+#### Reanalyzed 
+![image](https://github.com/slafton/School_District_Analysis/blob/main/Resources/School%20Size%20Summary%20ReAnalyzed.png)
